@@ -1,0 +1,2 @@
+# GlobalTrend_Programming_Assessment
+GlobalTrend Programming Assessment for internship
